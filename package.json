@@ -1,0 +1,21 @@
+{
+  "name": "searchimagesbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "start index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.3",
+    "config": "^3.3.9",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20",
+    "openai": "^3.1.0",
+    "telegraf": "^4.11.2"
+  }
+}
